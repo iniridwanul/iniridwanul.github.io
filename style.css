@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #363538;
+    font-family: Arial;
+}
+
+#container{
+    max-height:400px;
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #808080;
+}
+
+#profile-picture{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+#name{
+    color: #90ee90;
+    text-align: center;
+}
+
+#bio{
+    color: #e0ffff;
+    text-align: center;
+    font-size: 13px;
+}
+
+#program{
+    max-height: 300px;
+    max-width: 300px;
+    background-color: #282a36;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#program:hover{
+    max-height: 300px;
+    max-width: 300px;
+    background-color: #282a36;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px #808080;
+}
+
+#python-class{
+    color: #e06da4;
+    display: inline;
+}
+
+#class-name{
+    color: #72bcb7;
+    display:inline;
+}
+
+#semi-colon{
+    color: #ffffff;
+    display:inline;
+}
+
+#project-role{
+    color: #ffffff;
+    display: inline;
+    margin-left: 30px;
+}
+
+#equal{
+    color: #e06da4;
+    text-indent: 30px;
+    display: inline;
+}
+
+#krowspi-role{
+    color: #d2ce68;
+    display: inline;
+    
+}
+
+#show-function{
+    color: #e06da4;
+    display: inline;
+    margin-left: 30px;
+}
+
+#function-name{
+    color: #44c965;
+    text-indent: 30px;
+    display: inline;
+}
+
+#function-brackets{
+    color: #da4745;
+    text-indent: 30px;
+    display: inline;
+}
+
+#function-self{
+    color: #997bb7;
+    text-indent: 30px;
+    display: inline;
+}
+
+#print-role{
+    color: #44c965;
+    margin-left: 57px;
+    display: inline;
+}
+
+#self-dot{
+    color: #ffffff;
+    display:inline;
+}
+
+#self-role{
+    color: #ffffff;
+    display:inline;
+}
+
+#call-class{
+    color: #ffffff;
+    display:inline;
+}
+
+#display-role{
+    color: #ffffff;
+    display:inline;
+}
