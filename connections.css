@@ -1,0 +1,56 @@
+@media screen and (max-width: 768px){
+    .connections_root{
+        max-width: 26px;
+        max-height: 26px;
+        display: block;
+        padding: 2px;
+        background-color: #1d1e20;
+        border: 2px solid #1d1e20;
+        border-radius: 10px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 85px;
+        margin-right: 8px;
+    }
+}
+
+@media screen and (max-width: 376px){
+    .connections_root{
+        max-width: 26px;
+        max-height: 26px;
+        display: block;
+        padding: 2px;
+        background-color: #1d1e20;
+        border: 2px solid #1d1e20;
+        border-radius: 10px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 80px;
+        margin-right: 8px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .connections_root{
+        max-width: 26px;
+        max-height: 26px;
+        display: block;
+        padding: 2px;
+        background-color: #1d1e20;
+        border: 2px solid #1d1e20;
+        border-radius: 10px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 75px;
+        margin-right: 8px;
+    }
+}
+
+@media screen and (max-width: 249px){
+    .connections_root{
+        display: none;
+    }
+    .connections{
+        display: none;
+    }
+}

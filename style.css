@@ -12,7 +12,7 @@ body{
     max-height:400px;
     max-width: 300px;
     margin: 50px auto;
-    padding: 20px;
+    padding: 55px;
     border: 1px solid #808080;
 }
 
@@ -122,20 +122,47 @@ body{
 
 #self-dot{
     color: #ffffff;
-    display:inline;
+    display: inline;
 }
 
 #self-role{
     color: #ffffff;
-    display:inline;
+    display: inline;
 }
 
 #call-class{
     color: #ffffff;
-    display:inline;
+    display: inline;
 }
 
 #display-role{
     color: #ffffff;
-    display:inline;
+    display: inline;
+}
+
+.connections_root{
+    max-width: 26px;
+    max-height: 26px;
+    display: block;
+    padding: 2px;
+    background-color: #1d1e20;
+    border: 2px solid #1d1e20;
+    border-radius: 10px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 8px;
+}
+
+.connections{
+    max-width: 26px;
+    max-height: 26px;
+    display: block;
+    padding: 2px;
+    background-color: #1d1e20;
+    border: 2px solid #1d1e20;
+    border-radius: 10px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 8px;
 }
