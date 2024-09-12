@@ -1,0 +1,7 @@
+homeInfoParams:
+ Title: Notion
+ Content: Give me books, fruits, coffee, fine weather, and a little music. I'll write an open diary.
+ShowReadingTime: true
+defaultTheme: dark
+ShowCodeCopyButtons: true
+showtoc: true

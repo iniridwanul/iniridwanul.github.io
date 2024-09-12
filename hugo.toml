@@ -1,0 +1,4 @@
+baseURL = 'https://iniridwanul.github.io'
+languageCode = 'en-us'
+title = 'iniridwanul'
+theme = 'hugo-PaperMod'
