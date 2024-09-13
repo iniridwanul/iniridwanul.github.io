@@ -1,6 +1,7 @@
 homeInfoParams:
- Title: Notion
- Content: Give me books, fruits, coffee, fine weather, and a little music. I'll write an open diary.
+ Title: About
+ Content: Hey, this is iniridwanul's blog. I like open diaries, but I don't like losing diary pages. Give me books, fruit, coffee, nice weather, and a little music. I will write an open diary.
+
 ShowReadingTime: true
 defaultTheme: dark
 ShowCodeCopyButtons: true
@@ -13,5 +14,15 @@ socialIcons:
     url: "https://goodreads.com/iniridwanul"
   - name: "telegram"
     url: "https://t.me/about_iniridwanul"
-  - name: "email"
-    url: "mailto:iniridwanul@protonmail.com"
+
+label:
+  text: "iniridwanul"
+  icon: /logo/iniridwanul.png
+  iconHeight: 40
+
+assets:
+  disableFingerprinting: true
+  favicon: "/favicon/favicon.ico"
+  favicon16x16: "/favicon/favicon-16x16.png"
+  favicon32x32: "/favicon/favicon-32x32.png"
+  apple_touch_icon: "/favicon/apple-touch-icon.png"
