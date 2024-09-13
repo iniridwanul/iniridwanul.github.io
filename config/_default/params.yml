@@ -1,11 +1,13 @@
 homeInfoParams:
- Title: Overwhelming
- Content: Hey, this is iniridwanul's blog. I like open diaries, but I don't like losing diary pages. Give me books, fruit, coffee, nice weather, and a little music. I will write an open diary.
+ Title: অপ্রতিরোধ্য
+ Content: অপ্রতিরোধ্যতার বন্ধনে আমৃত্যু সরল আমি।
 
-ShowReadingTime: true
 defaultTheme: dark
+ShowReadingTime: true
 ShowCodeCopyButtons: true
 showtoc: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
 
 socialIcons:
   - name: "github"
