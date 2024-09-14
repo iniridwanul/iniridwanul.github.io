@@ -8,7 +8,7 @@ ShowCodeCopyButtons: true
 showtoc: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowShareButtons: false
+ShowShareButtons: true
 
 socialIcons:
   - name: "github"
