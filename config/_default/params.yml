@@ -1,6 +1,11 @@
+env: production
+description: "Howdy, I write here about technology, books, and my time."
+author: iniridwanul
+keywords: [Security, Linux, FOSS, Books, iniridwanul]
+
 homeInfoParams:
- Title: অপ্রতিরোধ্য
- Content: অপ্রতিরোধ্যতার বন্ধনে আমৃত্যু সরল আমি।
+ Title: iniridwanul
+ Content: Programmer, Bookworm, Linux Enthusiast
 
 defaultTheme: dark
 ShowReadingTime: true
@@ -9,6 +14,16 @@ showtoc: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowShareButtons: true
+
+analytics:
+ google:
+  SiteVerificationTag: "V0BybqqlNxKPFTXJ82TGuA_9xGK8dULNhKhlOflBW3k"
+
+sitemap:
+ changeFreq: "weekly"
+ disable: false
+ filename: sitemap.xml
+ priority: -1
 
 socialIcons:
   - name: "github"
@@ -19,7 +34,7 @@ socialIcons:
     url: "https://t.me/about_iniridwanul"
 
 label:
-  text: "iniridwanul"
+  text: " "
   icon: /logo/iniridwanul.png
   iconHeight: 40
 
