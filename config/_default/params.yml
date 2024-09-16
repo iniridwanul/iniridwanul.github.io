@@ -47,7 +47,6 @@ assets:
   apple_touch_icon: "/favicon/apple-touch-icon.png"
 
 cover:
-  hidden: true
   hiddenInSingle: true
   relative: false
   responsiveImages: true
