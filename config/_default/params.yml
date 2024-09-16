@@ -21,7 +21,7 @@ analytics:
   SiteVerificationTag: "V0BybqqlNxKPFTXJ82TGuA_9xGK8dULNhKhlOflBW3k"
 
 sitemap:
- changeFreq: "weekly"
+ changeFreq: "hourly"
  disable: false
  filename: sitemap.xml
  priority: -1
