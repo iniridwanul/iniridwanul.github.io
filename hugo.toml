@@ -4,3 +4,6 @@ title = 'iniridwanul'
 theme = 'hugo-PaperMod'
 paginate = 6
 enableRobotsTXT = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
