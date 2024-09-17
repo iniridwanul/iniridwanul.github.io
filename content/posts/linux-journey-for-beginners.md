@@ -4,8 +4,8 @@ date: 2024-09-13T20:42:38+06:00
 author: 'iniridwanul'
 draft: false
 cover:
- image: /images/linux-journey.jpg
- alt: Linux Journey
+ image: /images/linux-journey-for-beginners.jpg
+ alt: Linux journey for beginners
  relative: false
 ---
 
