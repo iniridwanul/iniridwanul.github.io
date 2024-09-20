@@ -34,6 +34,8 @@ socialIcons:
     url: "https://goodreads.com/iniridwanul"
   - name: "mastodon"
     url: "https://fosstodon.org/@iniridwanul"
+  - name: "rss"
+    url: "https://iniridwanul.github.io/index.xml"
 
 label:
   text: " "
