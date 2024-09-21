@@ -15,7 +15,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowShareButtons: true
 disableScrollToTop: true
-ShowWordCount: True
+ShowWordCount: true
 
 analytics:
  google:
