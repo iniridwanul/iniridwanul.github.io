@@ -7,3 +7,7 @@ enableRobotsTXT = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"
