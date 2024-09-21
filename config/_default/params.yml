@@ -16,6 +16,7 @@ ShowPostNavLinks: true
 ShowShareButtons: true
 disableScrollToTop: true
 ShowWordCount: true
+ShowFullTextinRSS: true
 
 analytics:
  google:
