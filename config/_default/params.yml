@@ -14,7 +14,7 @@ showtoc: true
 ShowPostNavLinks: true
 ShowShareButtons: true
 disableScrollToTop: true
-ShowWordCount: true
+ShowWordCount: false
 ShowFullTextinRSS: true
 
 analytics:
