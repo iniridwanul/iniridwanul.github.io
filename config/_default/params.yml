@@ -8,7 +8,7 @@ homeInfoParams:
  Content: Programmer, Bookworm, Linux Enthusiast
 
 defaultTheme: dark
-ShowReadingTime: true
+ShowReadingTime: false
 ShowCodeCopyButtons: true
 showtoc: true
 ShowPostNavLinks: true
