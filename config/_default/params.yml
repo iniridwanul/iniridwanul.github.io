@@ -27,6 +27,7 @@ sitemap:
  filename: sitemap.xml
  priority: -1
 
+social: true
 socialIcons:
   - name: "github"
     url: "https://github.com/iniridwanul"
