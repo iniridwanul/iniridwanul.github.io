@@ -1,5 +1,0 @@
-main:
- - name: Search
-   url: '/search'
- - name: Categories
-   url: '/categories'
