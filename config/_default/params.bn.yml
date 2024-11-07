@@ -1,3 +1,19 @@
+label:
+  text: "iniridwanul"
+  icon: /logo/iniridwanul.png
+  iconHeight: 40
+
 homeInfoParams:
     Title: "হ য ব র ল"
     Content: হ্যালো, [হ য ব র ল](/bn) ব্লগে আপনাকে স্বাগতম। প্রযুক্তি, সাইকোলজি, ধর্ম এবং বই রিভিউসহ নানা রকম বিষয়ে লেখালেখির জন্য এই ব্লগ সৃষ্টি। এই ব্লগের [ইংরেজি](/en) ভাষার আলাদা সংস্করণ রয়েছে, ইংরেজি সংস্করণেও আপনাকে আমন্ত্রণ করা হলো।
+
+social: true
+socialIcons:
+  - name: "github"
+    url: "https://github.com/iniridwanul"
+  - name: "goodreads"
+    url: "https://goodreads.com/iniridwanul"
+  - name: "mastodon"
+    url: "https://fosstodon.org/@iniridwanul"
+  - name: "rss"
+    url: "/bn/rss.xml"
