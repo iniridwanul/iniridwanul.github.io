@@ -1,8 +1,4 @@
 ---
-cover:
- image: /images/ifritgram_cover.jpg
- alt: Ifritgram Cover
- relative: false
 title: 'A Comprehensive Guide for Ifritgram Users'
 author: 'iniridwanul'
 date: 2024-11-09T08:21:43+06:00
