@@ -1,0 +1,13 @@
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+           {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- with .Get "class" }}{{ . }}{{- end }}"
+{{- end -}}>
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+      {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+    <figcaption>
+        <p>
+            {{ .Get "caption" }}
+        </p>
+    </figcaption>
+  </figure>
