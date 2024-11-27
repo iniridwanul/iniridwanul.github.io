@@ -9,7 +9,7 @@ tags:
   - Python
 draft: false
 categories:
-  - Technology
+  - Telegram
 ---
 
 Ifritgram is a sophisticated Telegram userbot designed to be used in a variety of domains, including open-source intelligence (OSINT), chat and voice call fights, as well as bypassing Telegram's security measures. Built using Python and utilizing the Telethon library, this powerful tool provides a wide range of capabilities that can be used for both legitimate and malicious purposes.
