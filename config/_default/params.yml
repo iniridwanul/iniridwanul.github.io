@@ -33,6 +33,8 @@ socialIcons:
     url: "https://github.com/iniridwanul"
   - name: "goodreads"
     url: "https://goodreads.com/iniridwanul"
+  - name: "telegram"
+    url: "https://t.me/iniridwanul_timeline"
   - name: "mastodon"
     url: "https://fosstodon.org/@iniridwanul"
   - name: "rss"
