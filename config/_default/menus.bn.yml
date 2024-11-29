@@ -8,6 +8,3 @@ main:
   - name: বিভাগসমূহ
     url: "/categories"
     weight: 15
-  - name: কুরআন
-    url: "/quran"
-    weight: 20
