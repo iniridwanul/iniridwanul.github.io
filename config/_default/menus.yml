@@ -1,0 +1,10 @@
+main:
+  - name: Search
+    url: '/search'
+    weight: 5
+  - name: Archive
+    url: "/archive"
+    weight: 10
+  - name: Categories
+    url: "/categories"
+    weight: 15

@@ -1,0 +1,15 @@
+baseURL = 'https://iniridwanul.github.io'
+languageCode = 'en-us'
+title = 'iniridwanul'
+theme = 'hugo-PaperMod'
+enableRobotsTXT = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"
+
+[pagination]
+pagerSize = "6"

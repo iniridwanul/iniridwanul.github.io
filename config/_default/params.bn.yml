@@ -1,0 +1,21 @@
+label:
+  text: "iniridwanul"
+  icon: /logo/iniridwanul.png
+  iconHeight: 40
+
+homeInfoParams:
+    Title: "হ য ব র ল"
+    Content: হ্যালো, [হ য ব র ল](/bn) ব্লগে আপনাকে স্বাগতম। এই ব্লগের নামকরণ অদ্ভুত রাখার পিছনের কারণ হলো আমার লেখার নির্দিষ্ট কোনো বিষয় নেই। এখানে আপনি আমার লেখালিখির বিভিন্ন রসায়ন খুঁজে পাবেন। মনে করুন, একটা বড় বাটিতে নানা রকম মসলা, সবজি, এবং অন্যান্য উপকরণ মিশে রয়েছে। ঠিক তেমনই এই ব্লগে বিভিন্ন ধরনের লেখা একসঙ্গে মিশে রয়েছে।
+
+social: true
+socialIcons:
+  - name: "github"
+    url: "https://github.com/iniridwanul"
+  - name: "goodreads"
+    url: "https://goodreads.com/iniridwanul"
+  - name: "telegram"
+    url: "https://t.me/iniridwanul_timeline"
+  - name: "mastodon"
+    url: "https://fosstodon.org/@iniridwanul"
+  - name: "rss"
+    url: "/bn/rss.xml"

@@ -1,0 +1,59 @@
+env: production
+description: "Reaches deeper than the roots."
+author: iniridwanul
+keywords: [Security, Linux, FOSS, Books, iniridwanul]
+
+homeInfoParams:
+ Title: iniridwanul
+ Content: Hello, welcome to [iniridwanul](/)'s blog. I don't have a specific topic to write about. Here you will find different chemistry of my writing. Imagine a large bowl with a variety of spices, vegetables, and other ingredients. Similarly, this blog has various types of writing mixed together.
+
+defaultTheme: dark
+ShowReadingTime: false
+ShowCodeCopyButtons: true
+showtoc: true
+ShowPostNavLinks: true
+ShowShareButtons: true
+disableScrollToTop: true
+ShowWordCount: false
+ShowFullTextinRSS: true
+
+analytics:
+ google:
+  SiteVerificationTag: "V0BybqqlNxKPFTXJ82TGuA_9xGK8dULNhKhlOflBW3k"
+
+sitemap:
+ changeFreq: "hourly"
+ disable: false
+ filename: sitemap.xml
+ priority: -1
+
+social: true
+socialIcons:
+  - name: "github"
+    url: "https://github.com/iniridwanul"
+  - name: "goodreads"
+    url: "https://goodreads.com/iniridwanul"
+  - name: "telegram"
+    url: "https://t.me/iniridwanul_timeline"
+  - name: "mastodon"
+    url: "https://fosstodon.org/@iniridwanul"
+  - name: "rss"
+    url: "/rss.xml"
+
+label:
+  text: " "
+  icon: /logo/iniridwanul.png
+  iconHeight: 40
+
+assets:
+  disableFingerprinting: true
+  favicon: "/favicon/favicon.ico"
+  favicon16x16: "/favicon/favicon-16x16.png"
+  favicon32x32: "/favicon/favicon-32x32.png"
+  apple_touch_icon: "/favicon/apple-touch-icon.png"
+
+cover:
+  hidden: true
+  hiddenInSingle: true
+  relative: false
+  responsiveImages: true

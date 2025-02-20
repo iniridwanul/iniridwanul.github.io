@@ -1,0 +1,8 @@
+bn:
+    languageName: "Bengali"
+    contentDir: content/bengali
+    weight: 1
+en:
+    languageName: "English"
+    contentDir: content/english
+    weight: 2
