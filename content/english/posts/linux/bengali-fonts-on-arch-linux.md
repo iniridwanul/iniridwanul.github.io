@@ -38,24 +38,34 @@ To properly configure fonts, you need to navigate to the `.config` directory wit
 <?xml version='1.0'?>
 <!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
 <fontconfig>
+
+<!-- Define an alias for serif fonts -->
 <alias>
   <family>serif</family>
+  <!-- Set "Qayyum Book" as the preferred serif font -->
   <prefer>
     <family>Qayyum Book</family>
   </prefer>
 </alias>
+
+<!-- Define an alias for sans-serif fonts -->
 <alias>
   <family>sans-serif</family>
+  <!-- Set "Qayyum Book" as the preferred sans-serif font -->
   <prefer>
     <family>Qayyum Book</family>
   </prefer>
 </alias>
+
+<!-- Define an alias for monospace fonts -->
 <alias>
   <family>monospace</family>
+  <!-- Set "JetBrainsMono Nerd Font" as the preferred monospace font -->
   <prefer>
     <family>JetBrainsMono Nerd Font</family>
   </prefer>
 </alias>
+
 </fontconfig>
 ```
 > To ensure that the font changes are applied correctly, it is recommended to restart or log out of the system.
