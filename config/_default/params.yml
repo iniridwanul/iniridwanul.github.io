@@ -29,6 +29,8 @@ sitemap:
 
 social: true
 socialIcons:
+  - name: "email"
+    url: "mailto:iniridwanul@gmail.com"
   - name: "github"
     url: "https://github.com/iniridwanul"
   - name: "goodreads"
