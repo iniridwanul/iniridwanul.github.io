@@ -1,7 +1,7 @@
 ---
 title: "Anime List"
 layout: "animelist"
-description: "A thoughtfully curated list of anime series I’ve completed, along with personal ratings to reflect my viewing experience."
+description: "This list represents a diverse collection of anime series I've completed, each thoughtfully rated based on narrative depth, character development, visual presentation, and overall impact on me as a viewer."
 ---
 
 {{< anime poster="/images/devil_may_cry.jpg" name="Devil May Cry" rating="9.0" >}}
