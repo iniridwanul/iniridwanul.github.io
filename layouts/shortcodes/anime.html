@@ -1,0 +1,7 @@
+<div class="anime-card" style="display: flex; align-items: center; margin: 1em 0; gap: 1em;">
+  <img src="{{ .Get "poster" }}" alt="{{ .Get "name" }}" style="width: 120px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <div>
+    <h3 style="margin: 0 0 0.2em;">{{ .Get "name" }}</h3>
+    <p style="margin: 0;">Rating: <strong>{{ .Get "rating" }}/10</strong></p>
+  </div>
+</div>
