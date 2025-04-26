@@ -1,4 +1,12 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <div>{{ .Content }}</div>
+  <section class="anime-list-page">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+      <p class="page-description">{{ . }}</p>
+    {{ end }}
+    
+    <div class="anime-list">
+      {{ .Content }}
+    </div>
+  </section>
 {{ end }}
