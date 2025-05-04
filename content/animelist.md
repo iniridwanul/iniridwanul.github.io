@@ -4,6 +4,7 @@ layout: "animelist"
 description: "This list represents a diverse collection of anime series I've completed, each thoughtfully rated based on narrative depth, character development, visual presentation, and overall impact on me as a viewer."
 ---
 
+{{< anime poster="/images/akudama_drive.jpg" name="Akudama Drive" rating="5.0" >}}
 {{< anime poster="/images/the_case_study_of_vanitas.jpg" name="The Case Study of Vanitas" rating="4.0" >}}
 {{< anime poster="/images/devil_may_cry.jpg" name="Devil May Cry" rating="9.0" >}}
 {{< anime poster="/images/bartender_glass_of_god.jpg" name="Bartender Glass of God" rating="7.0" >}}
