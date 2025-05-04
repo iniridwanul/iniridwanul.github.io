@@ -1,5 +1,6 @@
 ---
 title: "Anime List"
+type: anime
 layout: "animelist"
 description: "This list represents a diverse collection of anime series I've completed, each thoughtfully rated based on narrative depth, character development, visual presentation, and overall impact on me as a viewer."
 ---
