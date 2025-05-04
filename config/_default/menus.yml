@@ -8,6 +8,6 @@ main:
   - name: Categories
     url: "/categories"
     weight: 15
-  - name: Anime
+  - name: Anime List
     url: "/animelist"
     weight: 20
