@@ -1,9 +1,9 @@
 ---
 cover:
  image: /images/smart_tv.jpg
- alt: Unsupported Audio Codec Issues on Smart TV
+ alt: Unsupported Audio Codec Issues on Android Smart TV
  relative: false
-title: 'Unsupported Audio Codec Issues on Smart TV'
+title: 'Unsupported Audio Codec Issues on Android Smart TV'
 author: 'iniridwanul'
 date: 2025-05-06T11:10:41+06:00
 tags:
