@@ -5,6 +5,7 @@ layout: "animelist"
 description: "This list represents a diverse collection of anime series I've completed, each thoughtfully rated based on narrative depth, character development, visual presentation, and overall impact on me as a viewer."
 ---
 
+{{< anime poster="/images/fire_force.jpg" name="Fire Force" rating="8.0" >}}
 {{< anime poster="/images/dead_mount_death_play.jpg" name="Dead Mount Death Play" rating="9.0" >}}
 {{< anime poster="/images/code_geass.jpg" name="Code Geass" rating="7.0" >}}
 {{< anime poster="/images/akudama_drive.jpg" name="Akudama Drive" rating="5.0" >}}
